@@ -24,7 +24,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-gh repo clone Soslan4ik/case-3
+git clone https://github.com/Soslan4ik/case-3
 cd case-3
 ```
 
